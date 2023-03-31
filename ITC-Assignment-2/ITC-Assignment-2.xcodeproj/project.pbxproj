@@ -16,6 +16,7 @@
 		850A9F6829D6B1CB00A4B41E /* ITC_Assignment_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 850A9F6729D6B1CB00A4B41E /* ITC_Assignment_2Tests.swift */; };
 		850A9F7229D6B1CB00A4B41E /* ITC_Assignment_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 850A9F7129D6B1CB00A4B41E /* ITC_Assignment_2UITests.swift */; };
 		850A9F7429D6B1CB00A4B41E /* ITC_Assignment_2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 850A9F7329D6B1CB00A4B41E /* ITC_Assignment_2UITestsLaunchTests.swift */; };
+		850A9F8129D6F42D00A4B41E /* image of cat dark background.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 850A9F8029D6F42D00A4B41E /* image of cat dark background.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		850A9F6D29D6B1CB00A4B41E /* ITC-Assignment-2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ITC-Assignment-2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		850A9F7129D6B1CB00A4B41E /* ITC_Assignment_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ITC_Assignment_2UITests.swift; sourceTree = "<group>"; };
 		850A9F7329D6B1CB00A4B41E /* ITC_Assignment_2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ITC_Assignment_2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		850A9F8029D6F42D00A4B41E /* image of cat dark background.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "image of cat dark background.jpeg"; path = "../../../../Downloads/image of cat dark background.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				850A9F5429D6B1C900A4B41E /* ViewController.swift */,
 				850A9F5629D6B1C900A4B41E /* Main.storyboard */,
 				850A9F5929D6B1CB00A4B41E /* Assets.xcassets */,
+				850A9F8029D6F42D00A4B41E /* image of cat dark background.jpeg */,
 				850A9F5B29D6B1CB00A4B41E /* LaunchScreen.storyboard */,
 				850A9F5E29D6B1CB00A4B41E /* Info.plist */,
 			);
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				850A9F5D29D6B1CB00A4B41E /* LaunchScreen.storyboard in Resources */,
+				850A9F8129D6F42D00A4B41E /* image of cat dark background.jpeg in Resources */,
 				850A9F5A29D6B1CB00A4B41E /* Assets.xcassets in Resources */,
 				850A9F5829D6B1C900A4B41E /* Main.storyboard in Resources */,
 			);
