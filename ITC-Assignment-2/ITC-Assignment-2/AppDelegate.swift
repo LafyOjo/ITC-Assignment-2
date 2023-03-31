@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  ITC Assignment 2
+//  ITC-Assignment-2
 //
 //  Created by Isaiah Ojo on 31/03/2023.
 //

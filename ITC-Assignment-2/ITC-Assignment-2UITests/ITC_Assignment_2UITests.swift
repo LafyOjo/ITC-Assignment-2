@@ -1,6 +1,6 @@
 //
 //  ITC_Assignment_2UITests.swift
-//  ITC Assignment 2UITests
+//  ITC-Assignment-2UITests
 //
 //  Created by Isaiah Ojo on 31/03/2023.
 //
