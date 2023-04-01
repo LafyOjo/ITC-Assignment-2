@@ -1,7 +1,5 @@
 import UIKit
 
-var greeting = "Hello, playground"
-
 public class Car {
     private var numOfDoors:Int
     private var model:String
@@ -35,7 +33,7 @@ public class Car {
     public func getModel() -> String {
         return self.model
     }
-    
+     
     public func getType() -> String {
         return self.type
     }
@@ -85,7 +83,7 @@ public class Car {
         
         driveTimer?.setEventHandler{ [weak self] in
             guard let self = self else { return }
-            self.fuel -= 0.3
+            self.fuel -= 2.442121328132813
             
             DispatchQueue.main.async {
                 print("Current fuel status: \(self.fuel)")
@@ -128,3 +126,4 @@ let car = Car(numOfDoors: 4, model: "Model X", type: "Sedan", numOfWheel: 4, pri
 let electricCar = ElectricCar(numOfDoors: 4, model: "Model S", type: "Sedan", numOfWheel: 4, price: 60000, batteryCapacity: 100, dimensions: (length: 210, width: 85, height: 65), extraProperties: ["color": "red", "interior": "vegan leather"])
 
 car.drive()
+print(electricCar.extraProperties["color"])
